@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "titulo": "orgullo y prejuicio",
+        "autor": "jane austen",
+        "precio": 790.00,
+        "imagen": { "fields": { "file": { "url": "./images/orgulloyprejuicio.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "titulo": "el laberinto de los espíritus",
+        "autor": "carlos ruiz zafón",
+        "precio": 1640.00,
+        "imagen": { "fields": { "file": { "url": "./images/ellaberintodelosespiritus.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "titulo": "harry potter y la piedra filosofal",
+        "autor": "j.k. rowling",
+        "precio": 1549.00,
+        "imagen": { "fields": { "file": { "url": "./images/piedrafilosofal.JPG" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "titulo": "harry potter y la cámara secreta",
+        "autor": "j.k. rowling",
+        "precio": 1549.00,
+        "imagen": { "fields": { "file": { "url": "./images/camarasecreta.JPG" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "titulo": "llámame por tu nombre",
+        "autor": "andré aciman",
+        "precio": 1099.00,
+        "imagen": { "fields": { "file": { "url": "./images/llamameportunombre.JPG" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "titulo": "el poder del ahora",
+        "autor": "eckhart tolle",
+        "precio": 1399.00,
+        "imagen": { "fields": { "file": { "url": "./images/elpoderdelahora.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "titulo": "toda mafalda",
+        "autor": "quino",
+        "precio": 2930.00,
+        "imagen": { "fields": { "file": { "url": "./images/todamafalda.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "titulo": "más allá del invierno",
+        "autor": "isabel allende",
+        "precio": 1199.00,
+        "imagen": { "fields": { "file": { "url": "./images/masalladelinvierno.jpg" } } }
+      }
+    }
+  ]
+}
